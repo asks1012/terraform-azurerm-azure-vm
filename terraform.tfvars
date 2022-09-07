@@ -1,0 +1,5 @@
+location           = "Central India"
+vm_size            = "Standard_D2s_v3"
+admin_username     = "adminuser"
+azure_private_key  = "/home/sagar/.ssh/id_rsa"
+azure_public_key   = "/home/sagar/.ssh/id_rsa.pub"
